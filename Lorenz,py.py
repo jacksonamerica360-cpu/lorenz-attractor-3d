@@ -409,3 +409,9 @@ class CommentOnContardiction(InteractiveScene):
         # Inside out implies final net flow = -1
         # Never crosses the origin implies
         pass
+        ## Demo
+https://github.com/user-attachments/assets/...
+
+ya simple
+![Demo](./demo.mp4)
+        
